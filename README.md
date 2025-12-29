@@ -21,7 +21,7 @@ Currently based in **Kuwait**, I combine deep infrastructure knowledge with mode
 ---
 
 ### 📊 Github Stats
-![Amit's GitHub stats] (https://github-readme-stats.vercel.app/api?username=ErAmitJaiswal&show_icons=true&theme=radical)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErAmitJaiswal&show_icons=true&theme=radical)
 
 ---
 
